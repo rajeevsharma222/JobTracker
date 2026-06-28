@@ -1,8 +1,7 @@
-# 🧑‍💼 Jobster - Job Tracking Application
+# 🧑‍💼 JobTracker - Job Tracking Application
 
-Jobster is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application that allows users to manage and track their job applications efficiently. It includes secure authentication, robust CRUD operations, and insightful analytics for a better job-hunting experience.
+JobTracker is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application that allows users to manage and track their job applications efficiently. It includes secure authentication, robust CRUD operations, and insightful analytics for a better job-hunting experience.
 
-Live Backend API: [https://jobster-api-hhhx.onrender.com/](https://jobster-api-hhhx.onrender.com/)
 
 ---
 
@@ -48,5 +47,5 @@ Live Backend API: [https://jobster-api-hhhx.onrender.com/](https://jobster-api-h
 
 #### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/jobster.git
+git clone https://github.com/your-username/JobTracker.git
 cd jobster
